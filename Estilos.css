@@ -15,6 +15,10 @@ body{
     width: 80%;
     margin: auto;
 }
+.header ul #aqui {
+   font-weight: 1000;
+   color: #32b9cd;
+}
 
 .header .container{
     display: flex;
@@ -28,6 +32,11 @@ body{
     color: #e3b062;
     list-style: none;
     align-items: center;
+}
+
+a {
+   color: #e3b062;
+   text-decoration: none;
 }
 
 .banner{
