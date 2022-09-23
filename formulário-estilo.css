@@ -38,3 +38,18 @@
     border: 2px solid rgb(121, 121, 243);
     border-radius: 10px;
 }
+.formulario2 {
+    background: white;
+    width: 400px;
+    height: 400px;
+    color: palevioletred;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
